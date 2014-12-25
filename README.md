@@ -1,3 +1,5 @@
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/macropodhq/webpack-skel?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 A simple template for react (or not) projects
 
 Contributions welcome
@@ -6,7 +8,6 @@ Contributions welcome
 Features
 =====
 
-[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/macropodhq/webpack-skel?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 no gulp or grunt
 
